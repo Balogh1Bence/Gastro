@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gastro", "Gastro\Gastro.csproj", "{A8B3A4BE-0C64-4A13-AE9E-B45AB1765A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B3A4BE-0C64-4A13-AE9E-B45AB1765A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B3A4BE-0C64-4A13-AE9E-B45AB1765A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B3A4BE-0C64-4A13-AE9E-B45AB1765A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B3A4BE-0C64-4A13-AE9E-B45AB1765A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E12555-44D4-4116-B6F0-9475D8ACCD4B}
+	EndGlobalSection
+EndGlobal
