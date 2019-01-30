@@ -1,0 +1,32 @@
+nav {
+    padding:16px;
+    background-color: darkblue;
+}
+nav a{
+    padding: 0.5em;
+    color: white;
+    text-decoration: none;
+    
+}
+nav a:hover{
+    background-color: white;
+    color: darkblue;
+}
+nav form {
+    float: right;
+}
+#termekek, #termekek td{
+    border: 1px solid darkgray;
+    border-collapse: collapse;
+}
+#tartalom{
+    padding-top: 1em;
+    width: 80%;
+    margin: 0 auto;
+}
+#tartalom a{
+    padding-right: 0.5em;
+    margin-bottom: 0.5em;
+    margin-right: 1em;
+    display: inline-block;
+}
